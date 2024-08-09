@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD student at Oregon State University studying theoretical computer science.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Combinatorics:** Graph theory especially is important to theoretical computer scientists and I spend time thinking about various problems in graph theory like extremal problems, coloring, optimization, forbidden substructures, etc.
+- **Algorithms and Complexity** Algorithms for combinatorial problems and complexity theory are also of interest to me.
 
-## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Updates
+
+- **[Aug. 2024]** I plan on creating and linking a blog containing my thoughts about (mostly) math things I study and find interesting
+
+
+
 
 {% include_relative _includes/publications.md %}
 
