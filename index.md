@@ -14,7 +14,7 @@ I am a PhD student at Oregon State University studying theoretical computer scie
 
 ## Things I'm Thinking About
 ### I will try to keep this section udpated as frequently as possible; last update [Aug. 2024]
-- I've been thinking about graph reconstruction on hidden graphs given a shortest path metric oracle. Mathieu and Zhou showed it can be done in soft O($$n^3/2$$) query complexity. The area involves a ton of randomized algorithms and probabilistic analysis, so I've been playing around with probability.
+- I've been thinking about graph reconstruction on hidden graphs given a shortest path metric oracle. Mathieu and Zhou showed it can be done in soft O(n^3/2) query complexity. The area involves a ton of randomized algorithms and probabilistic analysis, so I've been playing around with probability.
 
 ## General Updates
 
