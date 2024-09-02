@@ -24,5 +24,5 @@ I am a PhD student at Oregon State University studying theoretical computer scie
 
 
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %} 
 
