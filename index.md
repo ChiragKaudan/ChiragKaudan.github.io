@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD student at Oregon State University studying theoretical computer science, advised by [Dr. Amir Nayyeri](https://web.engr.oregonstate.edu/~nayyeria/) 
+I am a PhD student at Oregon State University studying theoretical computer science, advised by [Dr. Amir Nayyeri](https://web.engr.oregonstate.edu/~nayyeria/). 
 
 ## Research Interests
 
