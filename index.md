@@ -8,7 +8,7 @@ I am a PhD student at Oregon State University studying theoretical computer scie
 
 ## Research Interests
 
-- **Combinatorics:** Within combinatorics, graph theory especially is of  interest to me. I spend time thinking about various problems in graph theory; extremal problems, coloring, optimization, forbidden substructures, etc.
+- **Combinatorics:** Within combinatorics, graph theory is especially of interest to me. I spend time thinking about various problems in graph theory; extremal problems, coloring, optimization, forbidden substructures, etc.
 - **Algorithms and Complexity** Algorithms for combinatorial problems and complexity theory are also of interest to me; combinatorial structures provide a rich playground for algorithms research
 
 
