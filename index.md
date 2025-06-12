@@ -1,5 +1,6 @@
 ---
 layout: homepage
+        teaching
 ---
 
 ## About Me
