@@ -23,7 +23,7 @@ Hi, I am a PhD student at Oregon State University studying theoretical computer 
 
 ## General Updates
 
-- **[Aug. 2024]** I've created a blog containing my thoughts about (mostly) math things I find interesting.
+- **[Aug. 2024]** I've created a [blog](https://chiragkaudan.github.io/ThoughtsBlogged/) containing my thoughts about (mostly) math things I find interesting.
 
 
 
