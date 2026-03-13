@@ -12,7 +12,7 @@
   display: flex !important;
   flex-direction: row !important;
   justify-content: center;
-  gap: 50px;
+  gap: 80px;
 }
 
 .top-nav li {
@@ -21,8 +21,9 @@
 
 .top-nav a {
   text-decoration: none;
-  font-size: 1.8rem;
+  font-size: 2rem;
   font-weight: 600;
+  letter-spacing: 1px;
   color: #c9b9ab;
 }
 
