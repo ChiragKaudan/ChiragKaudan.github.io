@@ -7,7 +7,7 @@
 .top-nav {
   width: 100%;
   text-align: center;
-  margin-bottom: 20px;          /* space between nav and content */
+  margin-bottom: 15px;          /* space between nav and content */
   padding-bottom: 10px;         /* space between links and line */
   border-bottom: 2px solid #e0dcd5; /* horizontal line */
 }
@@ -20,7 +20,7 @@
   display: flex !important;
   flex-direction: row !important;
   justify-content: center;
-  gap: 115px;
+  gap: 105px;
 }
 
 .top-nav li {
