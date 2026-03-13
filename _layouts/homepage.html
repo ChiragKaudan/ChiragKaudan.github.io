@@ -38,10 +38,12 @@
   <body>
     <div class="wrapper">
 
-      <nav class="site-nav">
-        <a href="/">Home</a><br>
-        <a href="/teaching">Teaching</a><br>
-        <a href="/ThoughtsBlogged/">Blog</a>
+      <nav class="top-nav">
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/teaching' | relative_url }}">Teaching</a></li>
+          <li><a href="{{ '/ThoughtsBlogged/' | relative_url }}">Blog</a></li>
+        </ul>
       </nav>
       <header>
         
