@@ -4,6 +4,14 @@
 @import "minimal-light";
 /* Navigation Menu Styling */
 
+.top-nav {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;          /* space between nav and content */
+  padding-bottom: 10px;         /* space between links and line */
+  border-bottom: 2px solid #e0dcd5; /* horizontal line */
+}
+
 .top-nav ul {
   list-style: none;
   margin: 0;
@@ -12,7 +20,7 @@
   display: flex !important;
   flex-direction: row !important;
   justify-content: center;
-  gap: 80px;
+  gap: 115px;
 }
 
 .top-nav li {
