@@ -11,9 +11,9 @@ Here are materials I created for CS 325 (Analysis of Algorithms) as offered in S
 
 # Recitation Sessions 
 Recitation sessions were given nearly weekly and were a mix between helping students solve problems and extra lecture material. The notes are written somewhat informally, sometimes written for myself more so than the students, with varying levels of polish. Some recitation session PDFs are missing, I'll work to create PDFs for them in time. 
-- [Session 1: Introduction to Recitation Sessions and Dynamic Programming](../assets/files/RecitationSession1_325Sp2025)
-- [Session 2: A Bit More Dynamic Programming](../assets/files/RecitationSession2_325Sp2025)
-- [Session 3: Divide and Conquer and Recursive Problem Solving](../assets/files/RecitationSession3_325Sp2025)
-- [Session 5: Greedy Algorithms](../assets/files/RecitationSession5_325Sp2025)
-- [Session 7: A Brief Motivation For Complexity Theory](../assets/files/RecitationSession7_325Sp2025)
+- [Session 1: Introduction to Recitation Sessions and Dynamic Programming](../assets/files/RecitationSession1_325Sp2025.pdf)
+- [Session 2: A Bit More Dynamic Programming](../assets/files/RecitationSession2_325Sp2025.pdf)
+- [Session 3: Divide and Conquer and Recursive Problem Solving](../assets/files/RecitationSession3_325Sp2025.pdf)
+- [Session 5: Greedy Algorithms](../assets/files/RecitationSession5_325Sp2025.pdf)
+- [Session 7: A Brief Motivation For Complexity Theory](../assets/files/RecitationSession7_325Sp2025.pdf)
 # Lectures 
