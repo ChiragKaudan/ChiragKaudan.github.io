@@ -6,10 +6,10 @@ permalink: /teaching
 
 Below is a list of classes that I have helped teach along with the relevant material that I created for lectures, recitation sessions, etc.
 
-## CS 325
+# CS 325
 Here are materials I created for CS 325 (Analysis of Algorithms) as offered in Spring 2025. 
 
-# Recitation Sessions 
+## Recitation Sessions 
 Recitation sessions were given nearly weekly and were a mix between helping students solve problems and extra lecture material. The notes are written somewhat informally, sometimes written for myself more so than the students, with varying levels of polish. Some recitation session PDFs are missing, I'll work to create PDFs for them in time. 
 - [Session 1: Introduction to Recitation Sessions and Dynamic Programming](../assets/files/RecitationSession1_325Sp2025.pdf)
 - [Session 2: A Bit More Dynamic Programming](../assets/files/RecitationSession2_325Sp2025.pdf)
