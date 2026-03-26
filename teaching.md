@@ -16,4 +16,6 @@ Recitation sessions were given nearly weekly and were a mix between helping stud
 - [Session 3: Divide and Conquer and Recursive Problem Solving](../assets/files/RecitationSession3_325Sp2025.pdf)
 - [Session 5: Greedy Algorithms](../assets/files/RecitationSession5_325Sp2025.pdf)
 - [Session 7: A Brief Motivation For Complexity Theory](../assets/files/RecitationSession7_325Sp2025.pdf)
+
 # Lectures 
+(to be updated)
